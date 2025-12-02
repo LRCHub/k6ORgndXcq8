@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "リベンジゲーム",
+  "base_artist": "CHiCO、HoneyWorks",
+  "createdAt": "2025-12-02T01:25:56.559751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リベンジゲーム",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_リベンジゲーム_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リベンジゲーム",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/02_リベンジゲーム_CHiCO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リベンジゲーム",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_リベンジゲーム_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
